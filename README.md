@@ -40,13 +40,6 @@ Follow the steps below to use the Attention Assist System:
    ```
    This command will execute the `drowsiness.py` script.
 
-2. Navigate to the "Drowsiness_Application" folder and run the "DrowsinessDetection.exe" file.
-   ```
-   cd Drowsiness_Application
-   DrowsinessDetection.exe
-   ```
-   This step is necessary to launch the graphical user interface (GUI) of the Drowsiness Application.
-
 ## Contact
 If you have any questions, or suggestions, or encounter any issues, please feel free to reach out:
 
