@@ -43,7 +43,7 @@ Follow the steps below to use the Attention Assist System:
 ## Contact
 If you have any questions, or suggestions, or encounter any issues, please feel free to reach out:
 
-- GitHub: [ARWINDHRAJ](https://github.com/ARWINDHRAJ)
+- GitHub: [Arwindhraj](https://github.com/Arwindhraj)
 - E-mail: [arwindh64@gmail.com](arwindh64@gmail.com)
 - GitHub: [MonishkumarKM](https://github.com/MonishkumarKM)
 - E-mail: [monish632004@gmail.com](monish632004@gmail.com)
