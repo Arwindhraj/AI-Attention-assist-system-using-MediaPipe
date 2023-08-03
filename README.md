@@ -29,7 +29,9 @@ pip install -r requirements.txt
 
 ## Installation
 1. Clone the repository:
+   ```shell
    git clone https://github.com/ARWINDHRAJ/Attention-assist-system-using-MediaPipe.git
+   ```
 
 ## Usage
 Follow the steps below to use the Attention Assist System:
