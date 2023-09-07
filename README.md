@@ -21,16 +21,10 @@ To run this project, you need to have the following prerequisites:
 - Math
 - Pygame
 
-You can install the required packages by running the following command:
-
-```shell
-pip install -r requirements.txt
-```
-
 ## Installation
 1. Clone the repository:
    ```shell
-   git clone https://github.com/ARWINDHRAJ/Attention-assist-system-using-MediaPipe.git
+   git clone https://github.com/Arwindhraj/AI-Attention-assist-system-using-MediaPipe
    ```
 
 ## Usage
@@ -44,6 +38,6 @@ Follow the steps below to use the Attention Assist System:
 
 ##
 
-[open an issue](https://github.com/ARWINDHRAJ/Attention-assist-system-using-MediaPipe/issues) on the GitHub repository for bug reports or feature requests.
+[open an issue](https://github.com/Arwindhraj/AI-Attention-assist-system-using-MediaPipe/issues) on the GitHub repository for bug reports or feature requests.
 
 We appreciate your feedback and contributions!
