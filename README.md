@@ -1,7 +1,5 @@
 # AI Attention Assist System using MediaPipe
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## Overview
 
 The AI Attention Assist System using MediaPipe is a project that utilizes the MediaPipe library to accurately detect and monitor attention levels in real time. The system is designed to function even in low-light conditions and can be deployed on edge devices by building the necessary packages. Utilizing MediaPipe, a cross-platform framework for creating computer vision pipelines, we created an attention support system. The system uses EAR and MAR to assess the driver's level of drowsiness. An alarm will sound to warn the driver if they are becoming sleepy.
